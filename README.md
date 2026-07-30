@@ -25,9 +25,9 @@ The analysis focused on answering three key business questions:
 <br>
 
 ## 🗂️ Dataset
-* Source: Google Play Store Apps Dataset (Kaggle)
-* Size: ~10,840 Android applications
-* Key Columns: Category, Rating, Reviews, Installs, Type, Size
+* **Source:** Synthetic Google Play Store Dataset (2026 Edition)
+* Size: 11,500 records** modeling modern Android application metrics.
+* Key Columns: Category, Rating, Installs, Type, Size,In-App Purchases & Ad Supported
 
 <br>
  
